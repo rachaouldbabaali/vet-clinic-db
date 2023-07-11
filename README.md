@@ -68,7 +68,7 @@ you have to those tools in your local machine.
 Clone the project.
 
 ```bash
-  git clone https://github.com/kifle23/vet-clinic-database.git
+  git clone https://github.com/rachaouldbabaali/vet-clinic-db.git
 ```
 
 Go to the project directory.
@@ -77,10 +77,10 @@ Go to the project directory.
   cd vet-clinic-database
 ```
 
-In the project directory, run/ Excute each query in the following order:
+In the project directory, run/ Execute each query in the following order:
 
 ```bash
-  Excute schema.sql
+  Execute schema.sql
   Excute data.sql
   Excute queries.sql
 ```
@@ -88,7 +88,7 @@ In the project directory, run/ Excute each query in the following order:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ### Run tests
 
-```test
+``` test
 No tests here...
 ```
 
@@ -102,7 +102,7 @@ No tests here...
 
 👤 **RACHA OULDBABAALI**
 
-- GitHub: [@githubhandle](https://github.com/rachaouldbabaali)
+- GitHub: [@racha](https://github.com/rachaouldbabaali)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rachaouldbabaali)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
