@@ -15,6 +15,7 @@
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🔭 Acknowledgements](#acknowledgements)
@@ -105,6 +106,15 @@ No tests here...
 - GitHub: [@githubhandle](https://github.com/rachaouldbabaali)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rachaouldbabaali)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Add more data to the database]**
+- [ ] **[Add more tables to the database]**
 
 <!-- CONTRIBUTING -->
 
