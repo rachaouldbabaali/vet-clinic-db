@@ -113,8 +113,8 @@ No tests here...
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Add more data to the database]**
 - [ ] **[Add more tables to the database]**
+- [ ] **[Add more data to the database]**
 
 <!-- CONTRIBUTING -->
 
