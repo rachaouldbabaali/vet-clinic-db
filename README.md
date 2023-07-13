@@ -10,10 +10,8 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Run test](#Test)
+  <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -26,9 +24,11 @@
 # 🎯 Vet Clinic Database<a name="about-project"></a>
 
 > In this project, we have used a relational database to create the data structure for a vet clinic.
+>
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
 <details>
   <summary>Database</summary>
   <ul>
@@ -39,9 +39,11 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+
 - **Create Database**
 - **Create Table**
 - **Select Table**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -87,7 +89,8 @@ In the project directory, run/ Execute each query in the following order:
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-### Run tests
+
+### Test
 
 ``` test
 No tests here...
@@ -99,18 +102,18 @@ No tests here...
 
 ## 👥 Authors <a name="authors"></a>
 
-### Author:
+### Author
 
 👤 **RACHA OULDBABAALI**
 
 - GitHub: [@racha](https://github.com/rachaouldbabaali)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rachaouldbabaali)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] **[Add more tables to the database]**
 - [ ] **[Add more data to the database]**
@@ -138,6 +141,7 @@ Give a ⭐️ if you like this project!
 ## 🔭Acknowledgments <a name="acknowledgements"></a>
 
 - [Microverse](https://www.microverse.org/).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
