@@ -10,7 +10,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Run test](#test)
+  - [Run test](#Test)
   <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -90,7 +90,7 @@ In the project directory, run/ Execute each query in the following order:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Run tests
+### Test
 
 ``` test
 No tests here...
