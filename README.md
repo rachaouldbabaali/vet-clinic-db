@@ -6,6 +6,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [schema](#Database-schema)
   <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -45,6 +46,11 @@
 - **Select Table**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SCHEMA -->
+### Database Schema 
+![image](https://github.com/rachaouldbabaali/vet-clinic-db/assets/33148222/7a269827-3f06-4403-98d5-96f7773bfd95)
+
 
 <!-- LIVE DEMO -->
 
