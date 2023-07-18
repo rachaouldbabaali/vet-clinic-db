@@ -10,7 +10,7 @@ CREATE TABLE medical_histories(
     id SERIAL NOT NULL PRIMARY KEY,
     admitted_at TIMESTAMP,
     patient_id INT REFERENCES patients(id),
-    status VARCHAR(100)
+    status VARCHAR(100),
     );
 
 CREATE TABLE treatments(
@@ -38,3 +38,9 @@ CREATE TABLE invoice_items (
     invoice_id INT REFERENCES invoices(id),
     treatment_id INT REFERENCES treatments(id)
     );
+
+-- Add foreign key indexes
+CREATE INDEX fk_medical_histories_patients_idx ON medical_histories (patient_id);
+CREATE INDEX fk_invoices_medical_histories_idx ON invoices (medical_history_id);
+CREATE INDEX fk_invoice_items_invoices_idx ON invoice_items (invoice_id);
+CREATE INDEX fk_invoice_items_treatments_idx ON invoice_items (treatment_id);
